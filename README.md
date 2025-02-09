@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">👋 Assalamu Alaikum, I'm Lataf Qureshi!</h1>
 
-<!--
-**Lataf07/Lataf07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=🔥+MERN+Stack+Developer;🚀+Full+Stack+Developer;⚛️+React.js+Developer;💻+Software+Engineer" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```json
+{
+                                                                          
+  "vision": "(Continuous Improvement)",
+  "languages": ["اردو (Urdu)", "English", "हिन्दी (Hindi)"],
+  "skills": ["JavaScript", "Python", "React", "MongoDB","Java","C++","DSA"],
+  "contact": { "email": "latafqureshi001@gmail.com" }
+
+}
+```
+
+
+<br>
+<br>
+
+## 👉 Connect with me:
+
+<p align="left">
+    <a style="margin: 0 10px" href="https://www.linkedin.com/in/lataf-qureshi-7b213b2a6/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    </a>
+    <a style="margin: 0 10px" href="https://www.instagram.com/lataf.07/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+    </a>
+</p>
+
+
+
+
+
